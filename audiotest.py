@@ -1,6 +1,4 @@
-# Importing io module for handling in-memory files
 import io
-# Importing gTTS (Google Text-to-Speech) for converting text to speech
 from gtts import gTTS
 
 import pygame
